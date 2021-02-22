@@ -1,0 +1,16 @@
+C:\Users\hidden\Desktop\새 폴더\programmers\bin\Debug\net5.0\programmers.exe
+C:\Users\hidden\Desktop\새 폴더\programmers\bin\Debug\net5.0\programmers.deps.json
+C:\Users\hidden\Desktop\새 폴더\programmers\bin\Debug\net5.0\programmers.runtimeconfig.json
+C:\Users\hidden\Desktop\새 폴더\programmers\bin\Debug\net5.0\programmers.runtimeconfig.dev.json
+C:\Users\hidden\Desktop\새 폴더\programmers\bin\Debug\net5.0\programmers.dll
+C:\Users\hidden\Desktop\새 폴더\programmers\bin\Debug\net5.0\ref\programmers.dll
+C:\Users\hidden\Desktop\새 폴더\programmers\bin\Debug\net5.0\programmers.pdb
+C:\Users\hidden\Desktop\새 폴더\programmers\obj\Debug\net5.0\programmers.csprojAssemblyReference.cache
+C:\Users\hidden\Desktop\새 폴더\programmers\obj\Debug\net5.0\programmers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hidden\Desktop\새 폴더\programmers\obj\Debug\net5.0\programmers.AssemblyInfoInputs.cache
+C:\Users\hidden\Desktop\새 폴더\programmers\obj\Debug\net5.0\programmers.AssemblyInfo.cs
+C:\Users\hidden\Desktop\새 폴더\programmers\obj\Debug\net5.0\programmers.csproj.CoreCompileInputs.cache
+C:\Users\hidden\Desktop\새 폴더\programmers\obj\Debug\net5.0\programmers.dll
+C:\Users\hidden\Desktop\새 폴더\programmers\obj\Debug\net5.0\ref\programmers.dll
+C:\Users\hidden\Desktop\새 폴더\programmers\obj\Debug\net5.0\programmers.pdb
+C:\Users\hidden\Desktop\새 폴더\programmers\obj\Debug\net5.0\programmers.genruntimeconfig.cache
